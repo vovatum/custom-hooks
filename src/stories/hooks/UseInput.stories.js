@@ -1,8 +1,8 @@
-import React, {useState} from 'react';
+import React from 'react';
 import {useInput} from "./UseInput";
 
 export default {
-    title: 'Hooks/Input'
+    title: 'Hooks/ Input'
 }
 
 export const Input = () => {
